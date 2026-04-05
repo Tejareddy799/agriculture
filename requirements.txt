@@ -1,0 +1,5 @@
+# All Dependencies
+numpy
+pandas
+scikit-learn
+flask
